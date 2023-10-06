@@ -4,7 +4,7 @@ This web app predicts whether a patient's cancer is Benign or Malignant and it i
 
 The data cleaning, the training, and pickling the model similar to the following kaggle notebook 
 
-(https://www.kaggle.com/code/yididyakebede/breast-cancer-prediction-trial)https://www.kaggle.com/code/yididyakebede/breast-cancer-prediction-trial
+(https://www.kaggle.com/code/yididyakebede/breast-cancer-prediction-trial)
 
 
 Demo : 
